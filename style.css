@@ -58,6 +58,15 @@ body {
   height: 250vh;
 }
 
+.elanding {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10vw 0 10vw;
+  height: 220vh;
+}
+
 .landingText h1 {
   font-size: 6vw;
   margin: 0 !important;
